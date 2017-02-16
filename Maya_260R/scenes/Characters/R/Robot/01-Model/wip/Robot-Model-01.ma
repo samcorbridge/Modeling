@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
 //Name: Robot-Model-01.ma
-//Last modified: Thu, Feb 09, 2017 12:42:30 PM
+//Last modified: Thu, Feb 09, 2017 12:43:41 PM
 //Codeset: UTF-8
 requires maya "2017";
 requires "stereoCamera" "10.0";
