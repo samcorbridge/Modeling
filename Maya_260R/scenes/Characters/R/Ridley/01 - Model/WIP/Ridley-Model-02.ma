@@ -1,6 +1,6 @@
 //Maya ASCII 2017 scene
-//Name: Ridley-Model-01.ma
-//Last modified: Thu, Mar 09, 2017 12:51:50 PM
+//Name: Ridley-Model-02.ma
+//Last modified: Thu, Mar 09, 2017 12:52:08 PM
 //Codeset: UTF-8
 requires maya "2017";
 currentUnit -l centimeter -a degree -t film;
@@ -4871,4 +4871,4 @@ connectAttr "groupId5.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId6.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId7.msg" ":initialShadingGroup.gn" -na;
 connectAttr "groupId8.msg" ":initialShadingGroup.gn" -na;
-// End of Ridley-Model-01.ma
+// End of Ridley-Model-02.ma
